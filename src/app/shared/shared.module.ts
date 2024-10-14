@@ -16,7 +16,6 @@ import { PrimeNgModule } from '../prime-ng/prime-ng.module';
   ],
   exports:[
    
-    PrimeNgModule,
     MenuComponent
   ]
 })
